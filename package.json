@@ -23,7 +23,12 @@
     "type": "git",
     "url": "https://github.com/fabiospampinato/react-selectr.git"
   },
-  "keywords": [],
+  "keywords": [
+    "react",
+    "hoc",
+    "selector",
+    "performance"
+  ],
   "dependencies": {
     "shallowequal": "^1.1.0"
   },
